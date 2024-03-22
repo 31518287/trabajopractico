@@ -12,6 +12,8 @@ public class TRABAJOPRACTICO1 {
 
         System.out.println("Sergio");
         System.out.println("iara");
+        
+        System.out.println("unos capos los pibes");
     }
     
 }
