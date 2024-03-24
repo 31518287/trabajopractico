@@ -1,6 +1,7 @@
 
 package trabajopractico1;
 
-public class Cartas {
-      
+
+public class Baraja {
+    
 }
